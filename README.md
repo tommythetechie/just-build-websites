@@ -13,7 +13,6 @@ But what if you don't know what kind of website to "just build"? The following i
 * ##### Find a local issue that's important to you, and make a brochure site that supports your stance
 * ##### Make a game powered by web tech (Maybe even participate in a [game jam](http://www.indiegamejams.com/))
 * ##### Explore generative art
-* Challenge yourself to make a site under a certain kb limit
 * ##### Identify a need you have in your daily life and make a web app that addresses it
 * ##### Create a custom "start page" for new tabs in your browser. Perhaps use APIs to fetch information that's tailored to your interests.
 * ##### Make a beautiful website using only text, no images
@@ -26,6 +25,7 @@ But what if you don't know what kind of website to "just build"? The following i
 * ##### Go to the [new repo page](https://github.com/new) on Github. Make something inspired by the randomly-generated repo name they give you
 * ##### Recreate the title sequence of a favorite show or movie using CSS. (Example: [Stranger Things](https://github.com/wbobeirne/stranger-things))
 * Help a friend's new business / hobby / resume / wedding
+* Challenge yourself to make a site under a certain kb limit
 * Follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) to get notified about [`first-timers-only` issues](http://www.firsttimersonly.com/) on Github!
 * Look at everybody's code!!!
 * Build a sustainable, pro-bono site for a non-profit in your area
