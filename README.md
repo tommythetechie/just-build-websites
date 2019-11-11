@@ -7,6 +7,7 @@ But what if you don't know what kind of website to "just build"? The following i
 [Projects inspired by the list](docs/inspired-projects.md)
 
 ## Ideas for web design + dev projects
+### This list I will create!
 * ##### Create a fan site (and maybe an old-school web forum) for something you love
 * ##### Build a gallery of photos you've taken on vacation
 * ##### Try to rebuild a page of a favorite site without looking at their code
@@ -24,6 +25,10 @@ But what if you don't know what kind of website to "just build"? The following i
 * ##### Choose an API on the [Programmable Web](http://www.programmableweb.com/apis/directory) directory and make something with it
 * ##### Go to the [new repo page](https://github.com/new) on Github. Make something inspired by the randomly-generated repo name they give you
 * ##### Recreate the title sequence of a favorite show or movie using CSS. (Example: [Stranger Things](https://github.com/wbobeirne/stranger-things))
+
+
+
+### This list I will not create... right now...
 * Help a friend's new business / hobby / resume / wedding
 * Challenge yourself to make a site under a certain kb limit
 * Follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) to get notified about [`first-timers-only` issues](http://www.firsttimersonly.com/) on Github!
