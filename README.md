@@ -9,7 +9,6 @@ But what if you don't know what kind of website to "just build"? The following i
 ## Ideas for web design + dev projects
 ### This list I will create!
 * ##### Create a fan site (and maybe an old-school web forum) for something you love
-* ##### Build a gallery of photos you've taken on vacation
 * ##### Try to rebuild a page of a favorite site without looking at their code
 * ##### Find a local issue that's important to you, and make a brochure site that supports your stance
 * ##### Make a game powered by web tech (Maybe even participate in a [game jam](http://www.indiegamejams.com/))
@@ -25,6 +24,11 @@ But what if you don't know what kind of website to "just build"? The following i
 * ##### Choose an API on the [Programmable Web](http://www.programmableweb.com/apis/directory) directory and make something with it
 * ##### Go to the [new repo page](https://github.com/new) on Github. Make something inspired by the randomly-generated repo name they give you
 * ##### Recreate the title sequence of a favorite show or movie using CSS. (Example: [Stranger Things](https://github.com/wbobeirne/stranger-things))
+//
+//
+//
+### This list is a list of finished (or mostly) projects from this list
+* ##### Build a gallery of photos you've taken on vacation
 //
 //
 //
