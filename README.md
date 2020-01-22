@@ -15,7 +15,6 @@ But what if you don't know what kind of website to "just build"? The following i
 * ##### Explore generative art
 * ##### Identify a need you have in your daily life and make a web app that addresses it
 * ##### Create a custom "start page" for new tabs in your browser. Perhaps use APIs to fetch information that's tailored to your interests.
-* ##### Make a beautiful website using only text, no images
 * ##### Style some free themes for a popular blogging service
 * ##### Manipulate an image with CSS in 25 different ways
 * ##### Make a JS-powered web chat for your friends
@@ -29,6 +28,7 @@ But what if you don't know what kind of website to "just build"? The following i
 //
 ### This list is a list of finished (or mostly) projects from this list
 * ##### Build a gallery of photos you've taken on vacation
+* ##### Make a beautiful website using only text, no images
 //
 //
 //
